@@ -1,0 +1,57 @@
+<!-- ESTRUTURA NO HTML -->
+ 
+<!DOCTYPE html>
+<html>
+    <head>
+        <body>
+
+
+        <!-- HTML-->
+        <!--  TITULOS -->
+          <h1> de 1 a 6 </h1>
+
+        <!-- PARAGRAFOS -->
+         <p>  P => PARA PARAGRAFOS, e br=> quebra linha1</p>
+         <br>
+
+        <!-- Para Listas -->
+         <ol></ol>
+         <ul></ul>
+         <li></li>
+         
+
+        <!-- Tabelas -->
+         <table>
+            <th> Para Topo</th>
+            <td> Informacao a Seguir</td>
+            <tr> Quebra LINHA NA TABLE</tr>
+         </table>
+        <!-- IMAGENS -->
+        <img>        
+        <!-- LINKS-->
+        <a> href  tambem</a>
+        <!-- DIVISAO DE CONTEUDO -->
+        <div></div>
+
+        <!-- CSS
+        ESTILOS VIA <style> <id><class> 
+        CORES, PLANOS DE FUNDO
+        BORDAS, ESPAÇAMENTO (MARGIN,PADDING)
+        ALINHAMENTO DE TEXTO: text aling
+        display, width, height
+
+        id, Classes e Hover 
+        DIFERENÇAS ENTRE ID E CLASS
+        ESTILOS DE LISTAS E TABELAS
+        PSEUDO-CLASSE : HOVER -->
+
+
+        <!-- JAVASCRIPT -->
+        <!-- 
+        let
+        const -->
+        <!--  -->
+        <!--  -->
+        <!--  -->
+        <!--  -->
+        <!--  -->
